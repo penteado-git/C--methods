@@ -1,0 +1,12 @@
+/home/gabriel/Home/teste/Biblioteca/bin/Debug/net6.0/Biblioteca.deps.json
+/home/gabriel/Home/teste/Biblioteca/bin/Debug/net6.0/Biblioteca.dll
+/home/gabriel/Home/teste/Biblioteca/bin/Debug/net6.0/ref/Biblioteca.dll
+/home/gabriel/Home/teste/Biblioteca/bin/Debug/net6.0/Biblioteca.pdb
+/home/gabriel/Home/teste/Biblioteca/obj/Debug/net6.0/Biblioteca.csproj.AssemblyReference.cache
+/home/gabriel/Home/teste/Biblioteca/obj/Debug/net6.0/Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Home/teste/Biblioteca/obj/Debug/net6.0/Biblioteca.AssemblyInfoInputs.cache
+/home/gabriel/Home/teste/Biblioteca/obj/Debug/net6.0/Biblioteca.AssemblyInfo.cs
+/home/gabriel/Home/teste/Biblioteca/obj/Debug/net6.0/Biblioteca.csproj.CoreCompileInputs.cache
+/home/gabriel/Home/teste/Biblioteca/obj/Debug/net6.0/Biblioteca.dll
+/home/gabriel/Home/teste/Biblioteca/obj/Debug/net6.0/ref/Biblioteca.dll
+/home/gabriel/Home/teste/Biblioteca/obj/Debug/net6.0/Biblioteca.pdb
